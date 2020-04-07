@@ -1,0 +1,28 @@
+{
+  "name": "covid-19-nigeria-data",
+  "version": "1.0.0",
+  "description": "Daily data about COVID-19 spread in Nigeria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meekg33k/covid-19-nigeria-data.git"
+  },
+  "keywords": [
+    "covid19",
+    "nigeria",
+    "covid-19"
+  ],
+  "author": "Uduak Obong-Eren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meekg33k/covid-19-nigeria-data/issues"
+  },
+  "homepage": "https://github.com/meekg33k/covid-19-nigeria-data#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
