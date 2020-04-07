@@ -1,5 +1,5 @@
 # covid-19-nigeria-data
-Data repository containing COVID-19 spread data. Please note that 
+Data repository containing data files for COVID-19 spread in Nigeria.
 
 
 ## Data
