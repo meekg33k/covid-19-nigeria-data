@@ -9,7 +9,7 @@ Data repository containing data files for COVID-19 spread in Nigeria.
 
 ## Endpoints
 The data contained in these files are also [hosted](https://covid-19-nigeria-data.herokuapp.com) and are accessible via the endpoints below:
-- `/` returns daily both state and total count of cases for per day.
+- `/` returns  both state and total count of cases for per day.
 - `/states` returns daily count of cases for each state per day.
 - `/total` returns total count of cases for the entire country per day.
 
