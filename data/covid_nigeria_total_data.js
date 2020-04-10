@@ -123,7 +123,10 @@ const covid_nigeria_total_data = [
 		"date": "2020-04-07", "confirmed": 254, "deaths": 6, "recovered": 44
 	},
 	{
-		"date": "2020-04-08", "confirmed": 276, "deaths": 6, "recovered": 44
+		"date": "2020-04-08", "confirmed": 274, "deaths": 6, "recovered": 44
+	},
+	{
+		"date": "2020-04-09", "confirmed": 288, "deaths": 7, "recovered": 51
 	},
 ]
 
