@@ -128,6 +128,9 @@ const covid_nigeria_total_data = [
 	{
 		"date": "2020-04-09", "confirmed": 288, "deaths": 7, "recovered": 51
 	},
+	{
+		"date": "2020-04-10", "confirmed": 305, "deaths": 7, "recovered": 58
+	},
 ]
 
 module.exports = covid_nigeria_total_data;
