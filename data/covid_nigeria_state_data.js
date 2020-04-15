@@ -1972,6 +1972,48 @@ const covid_nigeria_state_data = [
 			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-YO" },
 			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-ZA" },
 		]
+	},
+	{
+		"date": "2020-04-14",
+		"list": [
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-AB" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-AD" },
+			{ "confirmed": 6, "deaths": 0, "recovered": 0, "id": "NG-AK" },
+			{ "confirmed": 1, "deaths": 0, "recovered": 0, "id": "NG-AN" },
+			{ "confirmed": 6, "deaths": 0, "recovered": 0, "id": "NG-BA" },
+			{ "confirmed": 1, "deaths": 0, "recovered": 0, "id": "NG-BE" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-BO" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-BY" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-CR" },
+			{ "confirmed": 3, "deaths": 1, "recovered": 0, "id": "NG-DE" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-EB" },
+			{ "confirmed": 15, "deaths": 1, "recovered": 0, "id": "NG-ED" },
+			{ "confirmed": 2, "deaths": 0, "recovered": 1, "id": "NG-EK" },
+			{ "confirmed": 2, "deaths": 0, "recovered": 0, "id": "NG-EN" },
+			{ "confirmed": 58, "deaths": 2, "recovered": 11, "id": "NG-FC" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-GO" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-IM" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-JI" },
+			{ "confirmed": 6, "deaths": 0, "recovered": 0, "id": "NG-KD" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-KE" },
+			{ "confirmed": 3, "deaths": 0, "recovered": 0, "id": "NG-KN" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-KO" },
+			{ "confirmed": 5, "deaths": 1, "recovered": 0, "id": "NG-KT" },
+			{ "confirmed": 4, "deaths": 0, "recovered": 0, "id": "NG-KW" },
+			{ "confirmed": 214, "deaths": 6, "recovered": 67, "id": "NG-LA" }, //TODO: Confirm updated count of death and recoveries
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-NA" },
+			{ "confirmed": 1, "deaths": 0, "recovered": 0, "id": "NG-NI" },
+			{ "confirmed": 9, "deaths": 0, "recovered": 2, "id": "NG-OG" },
+			{ "confirmed": 3, "deaths": 0, "recovered": 0, "id": "NG-ON" },
+			{ "confirmed": 20, "deaths": 0, "recovered": 11, "id": "NG-OS" },
+			{ "confirmed": 11, "deaths": 0, "recovered": 4, "id": "NG-OY" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-PL" },
+			{ "confirmed": 2, "deaths": 0, "recovered": 1, "id": "NG-RI" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-SO" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-TA" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-YO" },
+			{ "confirmed": 0, "deaths": 0, "recovered": 0, "id": "NG-ZA" },
+		]
 	}
 ]
 
